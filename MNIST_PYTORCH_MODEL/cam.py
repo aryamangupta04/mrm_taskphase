@@ -18,8 +18,6 @@ kernel = np.ones((5, 5), np.uint8)
 
 canvas = np.zeros((720, 1280, 3), dtype=np.uint8)
 
-x2 = 0
-y2 = 0
 
 noise_thresh = 10
 
